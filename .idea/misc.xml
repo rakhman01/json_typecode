@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/JsonKotlin/jsonplaceholder/app/src/main/res/layout/activity_home.xml" value="0.17552083333333332" />
         <entry key="..\:/JsonKotlin/jsonplaceholder/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/JsonKotlin/jsonplaceholder/app/src/main/res/layout/activity_post.xml" value="0.17552083333333332" />
         <entry key="..\:/JsonKotlin/jsonplaceholder/app/src/main/res/layout/row.xml" value="0.4223057644110276" />
       </map>
     </option>
